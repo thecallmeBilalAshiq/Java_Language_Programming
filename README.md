@@ -14,5 +14,24 @@ It is owned by Oracle, and more than 3 billion devices run Java.
 
 These are some practice code written by me while learning JAVA_Programming.
 
-> [!NOTE]
-> You can contact me at my Linkedin Profile [Muhammad Bilal Ashiq](https://www.linkedin.com/in/bilal-ashiq/).
+***
+### Writer : Muhammad Bilal Ashiq 
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/thecallmeBilalAshiq">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilal-ashiq/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="bashiq031@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+    <a href="https://www.instagram.com/theycallme_bilal_ashiq/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+      
+  </a>
+  
+</p>
