@@ -1,4 +1,6 @@
-# JAVA Programming
+# JAVA Language Programming
+
+![Muhammad Bilal Ashiq](Source/java.png)
 
 Java is a popular programming language, created in 1995.
 It is owned by Oracle, and more than 3 billion devices run Java.
